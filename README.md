@@ -66,7 +66,7 @@ docker-compose up -d
 ```
 3. **애플리케이션 실행**
 ```bash
-java -jar build/libs/order-management-api.jar
+java -jar build/libs/order.jar
 ```
 
 ---
